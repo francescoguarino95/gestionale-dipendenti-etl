@@ -1,0 +1,10 @@
+# Virtual environment e cache Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Configurazioni locali con credenziali e dati generati/processati
+data/ETL_settings.csv
+data/processati/
+output/
